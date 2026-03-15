@@ -23,7 +23,7 @@
 
 <br/>
 
-<img src="screenshot.png" alt="ContactList App Screenshots" width="100%"/>
+<img src="https://github.com/IhorFlowZenith/ContactList/blob/master/src/assets/screenshots/img.png" alt="ContactList App Screenshots" width="100%"/>
 
 <br/>
 
